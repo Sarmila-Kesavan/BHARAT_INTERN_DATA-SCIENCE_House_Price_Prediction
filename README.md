@@ -1,2 +1,15 @@
-BHARAT_INTERN_DATA-SCIENCE_House_Price_Prediction.
-Hello Guys.Files inside this repository is related to my BHARAT INTERN DATA SCIENCE Project. In This file I included my project files related to HOUSE PRICE PREDICTION. Here I obtained the data from  DataSet "https://www.kaggle.com/datasets/gpandi007/usa-housing-dataset"
+# USA House Price Prediction Using Regression
+
+The data which is used in this project has been taken from the kaggle. The dataset is of USA Housing Dataset which includes 7 columns including target variable "Price". In this task we have to predict the house prices in USA. I have created this notebook to just try handful of ML regression algorithms via; sklearn pipeline.
+
+The project includes basic EDA, Outlier Analysis, Baseline Model Building, Model Comparison, Sklearn-Pipeline to Avoid Data Leakage, Cross Validation & Hyperparameter Tuning Using Randomsized Search CV & Prediction.
+
+The Regression Algorithms which I have tested in this notebook are as follows:
+
+1) Linear Regression
+
+2) Robust Regression
+
+3) Random Forest Regressor
+
+
